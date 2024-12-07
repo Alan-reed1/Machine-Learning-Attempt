@@ -1,0 +1,14 @@
+C:\Users\ergop\Documents\Code\Projects\Machine Learning Attempt\obj\Debug\net9.0-windows\Machine Learning Attempt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ergop\Documents\Code\Projects\Machine Learning Attempt\obj\Debug\net9.0-windows\Machine Learning Attempt.AssemblyInfoInputs.cache
+C:\Users\ergop\Documents\Code\Projects\Machine Learning Attempt\obj\Debug\net9.0-windows\Machine Learning Attempt.AssemblyInfo.cs
+C:\Users\ergop\Documents\Code\Projects\Machine Learning Attempt\obj\Debug\net9.0-windows\Machine Learning Attempt.csproj.CoreCompileInputs.cache
+C:\Users\ergop\Documents\Code\Projects\Machine Learning Attempt\bin\Debug\net9.0-windows\Machine Learning Attempt.exe
+C:\Users\ergop\Documents\Code\Projects\Machine Learning Attempt\bin\Debug\net9.0-windows\Machine Learning Attempt.deps.json
+C:\Users\ergop\Documents\Code\Projects\Machine Learning Attempt\bin\Debug\net9.0-windows\Machine Learning Attempt.runtimeconfig.json
+C:\Users\ergop\Documents\Code\Projects\Machine Learning Attempt\bin\Debug\net9.0-windows\Machine Learning Attempt.dll
+C:\Users\ergop\Documents\Code\Projects\Machine Learning Attempt\bin\Debug\net9.0-windows\Machine Learning Attempt.pdb
+C:\Users\ergop\Documents\Code\Projects\Machine Learning Attempt\obj\Debug\net9.0-windows\Machine Learning Attempt.dll
+C:\Users\ergop\Documents\Code\Projects\Machine Learning Attempt\obj\Debug\net9.0-windows\refint\Machine Learning Attempt.dll
+C:\Users\ergop\Documents\Code\Projects\Machine Learning Attempt\obj\Debug\net9.0-windows\Machine Learning Attempt.pdb
+C:\Users\ergop\Documents\Code\Projects\Machine Learning Attempt\obj\Debug\net9.0-windows\Machine Learning Attempt.genruntimeconfig.cache
+C:\Users\ergop\Documents\Code\Projects\Machine Learning Attempt\obj\Debug\net9.0-windows\ref\Machine Learning Attempt.dll

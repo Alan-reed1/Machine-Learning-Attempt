@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Machine Learning Attempt/1.0.0": {
+        "runtime": {
+          "Machine Learning Attempt.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Machine Learning Attempt/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
